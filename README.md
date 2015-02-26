@@ -2,111 +2,111 @@
 
 A collection of posix tools (or similiar to) available on npm.
 
-Ideally they should be written in JavaScript and run (through virtual file systems, etc) in a browser as well.
+Ideally they should be written in JavaScript and run (through virtual file systems, etc) in a browser.
 
 > Server: Will only run on the server side.  
 > Alias: Will exec the OS's binary tool.
 
-## admin
+## [admin](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/admin.html)
 
-## alias
+## [alias](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/alias.html)
 
-## ar
+## [ar](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/ar.html)
 
-## asa
+## [asa](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/asa.html)
 
-## at
+## [at](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/at.html)
 
-## awk
+## [awk](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/awk.html)
 
-## basename
+## [basename](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/basename.html)
 
-## batch
+## [batch](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/batch.html)
 
-## bc
+## [bc](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/bc.html)
 
-## bg
+## [bg](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/bg.html)
 
-## c99
+## [c99](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/c99.html)
 
-## cal
+## [cal](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/cal.html)
 
-## cat
+## [cat](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/cat.html)
 
-## cd
+## [cd](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/cd.html)
 * Server
   + [process.chdir](https://iojs.org/api/process.html#process_process_chdir_directory)
 
-## cflow
+## [cflow](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/cflow.html)
 
-## chgrp
+## [chgrp](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/chgrp.html)
 
-## chmod
+## [chmod](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/chmod.html)
 * Server
   + [chmod](https://www.npmjs.com/package/chmod)
   + [fs.chmod](https://iojs.org/api/fs.html#fs_fs_chmod_path_mode_callback)
 
-## chown
+## [chown](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/chown.html)
 * Server
   + [chownr](https://www.npmjs.com/package/chownr)
   + [fs.chown](https://iojs.org/api/fs.html#fs_fs_chown_path_uid_gid_callback)
 
-## cksum
+## [cksum](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/cksum.html)
 
-## cmp
+## [cmp](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/cmp.html)
 
-## comm
+## [comm](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/comm.html)
 
-## command
+## [command](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/command.html)
 
-## compress
+## [compress](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/compress.html)
 
-## cp
+## [cp](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/cp.html)
 * Server
   + [cpr](https://www.npmjs.com/package/cpr)
 
-## crontab
+## [crontab](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/crontab.html)
 
-## csplit
+## [csplit](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/csplit.html)
 
-## ctags
+## [ctags](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/ctags.html)
 
-## cut
+## [cut](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/cut.html)
 
-## cxref
+## [cxref](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/cxref.html)
 
-## date
+## [date](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/date.html)
 
-## dd
+## [dd](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/dd.html)
 
-## delta
+## [delta](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/delta.html)
 
-## df
+## [df](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/df.html)
 
-## diff
+## [diff](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/diff.html)
 
-## dirname
+## [dirname](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/dirname.html)
 
-## du
+## [du](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/du.html)
 
-## echo
+## [echo](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/echo.html)
 
-## ed
+## [ed](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/ed.html)
 
-## env
+## [env](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/env.html)
 
-## ex
+## [ex](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/ex.html)
 
-## expand
+## [expand](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/expand.html)
 
-## expr
+## [expr](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/expr.html)
 
-## false
+## [false](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/false.html)
 * [false](https://www.npmjs.com/package/false)
 
-## fc
+## [fc](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/fc.html)
 
-## fg
+## [fg](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/fg.html)
 
 ## file
 
