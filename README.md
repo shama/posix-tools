@@ -4,7 +4,7 @@ A collection of posix tools (or similiar to) available on npm.
 
 Ideally they should be written in JavaScript and run (through virtual file systems, etc) in a browser.
 
-> Server: Will only run on the server side.  
+> Server: Will only run on the server side.
 > Alias: Will exec the OS's binary tool.
 
 ## [admin](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/admin.html)
@@ -64,6 +64,7 @@ Ideally they should be written in JavaScript and run (through virtual file syste
 ## [cp](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/cp.html)
 * Server
   + [cpr](https://www.npmjs.com/package/cpr)
+  + [cpy](https://www.npmjs.com/package/cpy)
 
 ## [crontab](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/crontab.html)
 
@@ -153,6 +154,8 @@ Ideally they should be written in JavaScript and run (through virtual file syste
 ## link
 
 ## ln
+* Server
+  + [lnfs](https://www.npmjs.com/package/lnfs)
 
 ## locale
 
