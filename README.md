@@ -34,7 +34,7 @@ Ideally they should be written in JavaScript and run (through virtual file syste
 
 ## cd
 * Server
-  + [iojs](https://iojs.org/api/process.html#process_process_chdir_directory)
+  + [process.chdir](https://iojs.org/api/process.html#process_process_chdir_directory)
 
 ## cflow
 
@@ -43,12 +43,12 @@ Ideally they should be written in JavaScript and run (through virtual file syste
 ## chmod
 * Server
   + [chmod](https://www.npmjs.com/package/chmod)
-  + [iojs](https://iojs.org/api/fs.html#fs_fs_chmod_path_mode_callback)
+  + [fs.chmod](https://iojs.org/api/fs.html#fs_fs_chmod_path_mode_callback)
 
 ## chown
 * Server
   + [chownr](https://www.npmjs.com/package/chownr)
-  + [iojs](https://iojs.org/api/fs.html#fs_fs_chown_path_uid_gid_callback)
+  + [fs.chown](https://iojs.org/api/fs.html#fs_fs_chown_path_uid_gid_callback)
 
 ## cksum
 
@@ -176,12 +176,17 @@ Ideally they should be written in JavaScript and run (through virtual file syste
 ## mesg
 
 ## mkdir
+* Server
+  + [mkdirp](https://www.npmjs.com/package/mkdirp)
+  + [fs.mkdir](https://iojs.org/api/fs.html#fs_fs_mkdir_path_mode_callback)
 
 ## mkfifo
 
 ## more
 
 ## mv
+* Server
+  + [mv](https://www.npmjs.com/package/mv)
 
 ## newgrp
 
@@ -243,12 +248,14 @@ Ideally they should be written in JavaScript and run (through virtual file syste
 ## rm
 * Server
   + [rimraf](https://www.npmjs.com/package/rimraf)
+  + [fs.unlink](https://iojs.org/api/fs.html#fs_fs_unlink_path_callback)
 
 ## rmdel
 
 ## rmdir
 * Server
   + [rimraf](https://www.npmjs.com/package/rimraf)
+  + [fs.rmdir](https://iojs.org/api/fs.html#fs_fs_rmdir_path_callback)
 
 ## sact
 
@@ -315,6 +322,9 @@ Ideally they should be written in JavaScript and run (through virtual file syste
 ## uniq
 
 ## unlink
+* Server
+  + [rimraf](https://www.npmjs.com/package/rimraf)
+  + [fs.unlink](https://iojs.org/api/fs.html#fs_fs_unlink_path_callback)
 
 ## uucp
 
