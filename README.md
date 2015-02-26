@@ -4,7 +4,8 @@ A collection of posix tools (or similiar to) available on npm.
 
 Ideally they should be written in JavaScript and run (through virtual file systems, etc) in a browser as well.
 
-> Server: Will only run on the server side. Alias: Will exec the OS's binary tool.
+> Server: Will only run on the server side.
+> Alias: Will exec the OS's binary tool.
 
 ## admin
 
