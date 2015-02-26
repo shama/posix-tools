@@ -108,254 +108,254 @@ Ideally they should be written in JavaScript and run (through virtual file syste
 
 ## [fg](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/fg.html)
 
-## file
+## [file](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/file.html)
 
-## find
+## [find](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/find.html)
 
-## fold
+## [fold](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/fold.html)
 
-## fort77
+## [fort77](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/fort77.html)
 
-## fuser
+## [fuser](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/fuser.html)
 
-## gencat
+## [gencat](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/gencat.html)
 
-## get
+## [get](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/get.html)
 
-## getconf
+## [getconf](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/getconf.html)
 
-## getopts
+## [getopts](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/getopts.html)
 
-## grep
+## [grep](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/grep.html)
 * Alias
   + [grep1](https://www.npmjs.com/package/grep1)
 
-## hash
+## [hash](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/hash.html)
 
-## head
+## [head](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/head.html)
 
-## iconv
+## [iconv](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/iconv.html)
 
-## id
+## [id](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/id.html)
 
-## ipcrm
+## [ipcrm](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/ipcrm.html)
 
-## ipcs
+## [ipcs](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/ipcs.html)
 
-## jobs
+## [jobs](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/jobs.html)
 
-## join
+## [join](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/join.html)
 
-## kill
+## [kill](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/kill.html)
 
-## lex
+## [lex](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/lex.html)
 
-## link
+## [link](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/link.html)
 
-## ln
+## [ln](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/ln.html)
 
-## locale
+## [locale](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/locale.html)
 
-## localedef
+## [localedef](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/localedef.html)
 
-## logger
+## [logger](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/logger.html)
 
-## logname
+## [logname](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/logname.html)
 
-## lp
+## [lp](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/lp.html)
 
-## ls
+## [ls](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/ls.html)
 
-## m4
+## [m4](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/m4.html)
 
-## mailx
+## [mailx](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/malix.html)
 
-## make
+## [make](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/make.html)
 
-## man
+## [man](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/man.html)
 
-## mesg
+## [mesg](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/mesg.html)
 
-## mkdir
+## [mkdir](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/mkdir.html)
 * Server
   + [mkdirp](https://www.npmjs.com/package/mkdirp)
   + [fs.mkdir](https://iojs.org/api/fs.html#fs_fs_mkdir_path_mode_callback)
 
-## mkfifo
+## [mkfifo](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/mkfifo.html)
 
-## more
+## [more](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/more.html)
 
-## mv
+## [mv](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/mv.html)
 * Server
   + [mv](https://www.npmjs.com/package/mv)
 
-## newgrp
+## [newgrp](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/newgrp.html)
 
-## nice
+## [nice](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/nice.html)
 
-## nl
+## [nl](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/nl.html)
 
-## nm
+## [nm](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/nm.html)
 
-## nohup
+## [nohup](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/nohup.html)
 
-## od
+## [od](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/od.html)
 
-## paste
+## [paste](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/paste.html)
 
-## patch
+## [patch](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/patch.html)
 
-## pathchk
+## [pathchk](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/pathchk.html)
 
-## pax
+## [pax](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/pax.html)
 
-## pr
+## [pr](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/pr.html)
 
-## printf
+## [printf](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/printf.html)
 * [printf](https://www.npmjs.com/package/printf)
 
-## prs
+## [prs](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/prs.html)
 
-## ps
+## [ps](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/ps.html)
 
-## pwd
+## [pwd](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/pwd.html)
 
-## qalter
+## [qalter](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/qalter.html)
 
-## qdel
+## [qdel](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/qdel.html)
 
-## qhold
+## [qhold](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/qhold.html)
 
-## qmove
+## [qmove](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/qmove.html)
 
-## qmsg
+## [qmsg](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/qmsg.html)
 
-## qrerun
+## [qrerun](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/qrerun.html)
 
-## qrls
+## [qrls](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/qrls.html)
 
-## qselect
+## [qselect](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/qselect.html)
 
-## qsig
+## [qsig](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/qsig.html)
 
-## qstat
+## [qstat](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/qstat.html)
 
-## qsub
+## [qsub](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/qsub.html)
 
-## read
+## [read](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/read.html)
 
-## renice
+## [renice](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/renice.html)
 
-## rm
+## [rm](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/rm.html)
 * Server
   + [rimraf](https://www.npmjs.com/package/rimraf)
   + [fs.unlink](https://iojs.org/api/fs.html#fs_fs_unlink_path_callback)
 
-## rmdel
+## [rmdel](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/rmdel.html)
 
-## rmdir
+## [rmdir](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/rmdir.html)
 * Server
   + [rimraf](https://www.npmjs.com/package/rimraf)
   + [fs.rmdir](https://iojs.org/api/fs.html#fs_fs_rmdir_path_callback)
 
-## sact
+## [sact](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/sact.html)
 
-## sccs
+## [sccs](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/sccs.html)
 
-## sed
+## [sed](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/sed.html)
 
-## sh
+## [sh](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/sh.html)
 
-## sleep
+## [sleep](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/sleep.html)
 
-## sort
+## [sort](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/sort.html)
 
-## split
+## [split](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/split.html)
 
-## strings
+## [strings](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/strings.html)
 
-## strip
+## [strip](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/strip.html)
 
-## stty
+## [stty](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/stty.html)
 
-## tabs
+## [tabs](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/tabs.html)
 
-## tail
+## [tail](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/tail.html)
 
-## talk
+## [talk](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/talk.html)
 
-## tee
+## [tee](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/tee.html)
 
-## test
+## [test](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/test.html)
 
-## time
+## [time](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/time.html)
 
-## touch
+## [touch](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/touch.html)
 * [touch](https://www.npmjs.com/package/touch)
 
-## tput
+## [tput](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/tput.html)
 
-## tr
+## [tr](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/tr.html)
 
-## true
+## [true](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/true.html)
 * [true](https://www.npmjs.com/package/true)
 
-## tsort
+## [tsort](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/tsort.html)
 
-## tty
+## [tty](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/tty.html)
 
-## type
+## [type](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/type.html)
 
-## ulimit
+## [ulimit](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/ulimit.html)
 
-## umask
+## [umask](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/umask.html)
 
-## unalias
+## [unalias](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/unalias.html)
 
-## uname
+## [uname](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/uname.html)
 
-## uncompress
+## [uncompress](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/uncompress.html)
 
-## unexpand
+## [unexpand](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/unexpand.html)
 
-## unget
+## [unget](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/unget.html)
 
-## uniq
+## [uniq](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/uniq.html)
 
-## unlink
+## [unlink](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/unlink.html)
 * Server
   + [rimraf](https://www.npmjs.com/package/rimraf)
   + [fs.unlink](https://iojs.org/api/fs.html#fs_fs_unlink_path_callback)
 
-## uucp
+## [uucp](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/uucp.html)
 
-## uudecode
+## [uudecode](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/uudecode.html)
 
-## uuencode
+## [uuencode](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/uuencode.html)
 
-## uustat
+## [uustat](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/uustat.html)
 
-## uux
+## [uux](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/uux.html)
 
-## val
+## [val](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/val.html)
 
-## vi
+## [vi](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/vi.html)
 
-## wait
+## [wait](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/wait.html)
 
-## wc
+## [wc](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/wc.html)
 
-## what
+## [what](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/what.html)
 
-## who
+## [who](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/who.html)
 
-## write
+## [write](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/write.html)
 
-## xargs
+## [xargs](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/xargs.html)
 
-## yacc
+## [yacc](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/yacc.html)
 
-## zcat
+## [zcat](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/zcat.html)
 
 ---
 
