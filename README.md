@@ -107,6 +107,7 @@ Ideally they should be written in JavaScript and run (through virtual file syste
 ## [expr](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/expr.html)
 
 ## [false](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/false.html)
+* `false`
 * [false](https://www.npmjs.com/package/false)
 
 ## [fc](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/fc.html)
@@ -309,6 +310,7 @@ Ideally they should be written in JavaScript and run (through virtual file syste
 ## [tr](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/tr.html)
 
 ## [true](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/true.html)
+* `true`
 * [true](https://www.npmjs.com/package/true)
 
 ## [tsort](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/tsort.html)
