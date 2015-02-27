@@ -1,0 +1,25 @@
+{
+  "name": "posix-tools",
+  "version": "1.0.0",
+  "description": "A collection of pure JavaScript POSIX tools",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shama/posix-tools"
+  },
+  "keywords": [
+    "posix",
+    "tools"
+  ],
+  "author": "Kyle Robinson Young <kyle@dontkry.com> (http://dontkry.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shama/posix-tools/issues"
+  },
+  "homepage": "https://github.com/shama/posix-tools",
+  "dependencies": {
+    "posix-cat": "^1.1.0",
+    "posix-echo": "^1.0.0"
+  }
+}
