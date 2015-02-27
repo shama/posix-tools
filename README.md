@@ -32,6 +32,7 @@ Ideally they should be written in JavaScript and run (through virtual file syste
 ## [cal](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/cal.html)
 
 ## [cat](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/cat.html)
+* [posix-cat](https://www.npmjs.com/package/posix-cat)
 
 ## [cd](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/cd.html)
 * Server
