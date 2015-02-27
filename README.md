@@ -83,6 +83,8 @@ Ideally they should be written in JavaScript and run (through virtual file syste
 ## [delta](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/delta.html)
 
 ## [df](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/df.html)
+* Alias
+  + [df](https://www.npmjs.com/package/df)
 
 ## [diff](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/diff.html)
 
