@@ -168,6 +168,9 @@ Ideally they should be written in JavaScript and run (through virtual file syste
 ## [lp](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/lp.html)
 
 ## [ls](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/ls.html)
+* Server
+  + [readdirp](https://www.npmjs.com/package/readdirp)
+  + [fs.readdir](http://nodejs.org/api/fs.html#fs_fs_readdir_path_callback)
 
 ## [m4](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/m4.html)
 
