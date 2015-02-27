@@ -94,6 +94,7 @@ Ideally they should be written in JavaScript and run (through virtual file syste
 ## [du](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/du.html)
 
 ## [echo](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/echo.html)
+* [posix-echo](https://www.npmjs.com/package/posix-echo)
 
 ## [ed](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/ed.html)
 
