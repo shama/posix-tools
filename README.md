@@ -1,6 +1,6 @@
 # posix-tools
 
-A collection of posix tools (or similiar to) available on npm.
+A collection of posix tools (or similar to) available on npm.
 
 Ideally they should be written in JavaScript and run (through virtual file systems, etc) in a browser.
 
