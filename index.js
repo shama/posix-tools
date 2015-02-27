@@ -1,6 +1,6 @@
 module.exports = {
-  cat: require('posix-cat'),
-  echo: require('posix-echo'),
+  cat: require('ix-cat'),
+  echo: require('ix-echo'),
   'false': false,
   'true': true,
 }

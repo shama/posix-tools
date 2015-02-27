@@ -1,6 +1,6 @@
-# posix-tools
+# ix-tools
 
-A collection of posix tools (or similar to) available on npm.
+A collection of pure JavaScript POSIX-like tools
 
 Ideally they should be written in JavaScript and run (through virtual file systems, etc) in a browser.
 
@@ -32,7 +32,7 @@ Ideally they should be written in JavaScript and run (through virtual file syste
 ## [cal](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/cal.html)
 
 ## [cat](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/cat.html)
-* [posix-cat](https://www.npmjs.com/package/posix-cat)
+* [ix-cat](https://www.npmjs.com/package/ix-cat)
 
 ## [cd](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/cd.html)
 * Server
@@ -94,7 +94,7 @@ Ideally they should be written in JavaScript and run (through virtual file syste
 ## [du](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/du.html)
 
 ## [echo](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/echo.html)
-* [posix-echo](https://www.npmjs.com/package/posix-echo)
+* [ix-echo](https://www.npmjs.com/package/ix-echo)
 
 ## [ed](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/ed.html)
 
