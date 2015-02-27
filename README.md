@@ -191,6 +191,7 @@ Ideally they should be written in JavaScript and run (through virtual file syste
 ## [mv](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/mv.html)
 * Server
   + [mv](https://www.npmjs.com/package/mv)
+  + [fs.rename](http://nodejs.org/api/fs.html#fs_fs_rename_oldpath_newpath_callback)
 
 ## [newgrp](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/newgrp.html)
 
