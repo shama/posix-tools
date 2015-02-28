@@ -347,6 +347,8 @@ If you know of a tool in JavaScript that works similar to a POSIX utility, pleas
 ## [tabs](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/tabs.html)
 
 ## [tail](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/tail.html)
+* Server
+  + [file-tail](https://www.npmjs.com/package/file-tail)
 
 ## [talk](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/talk.html)
 
