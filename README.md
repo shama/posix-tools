@@ -178,6 +178,7 @@ Ideally they should be written in JavaScript and run (through virtual file syste
 * Server
   + [readdirp](https://www.npmjs.com/package/readdirp)
   + [fs.readdir](http://nodejs.org/api/fs.html#fs_fs_readdir_path_callback)
+  + [ls-stream](https://www.npmjs.com/package/ls-stream)
 
 ## [m4](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/m4.html)
 
@@ -337,6 +338,7 @@ Ideally they should be written in JavaScript and run (through virtual file syste
 ## [unget](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/unget.html)
 
 ## [uniq](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/uniq.html)
+  + [uniq-stream](https://www.npmjs.com/package/uniq-stream)
 
 ## [unlink](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/unlink.html)
 * Server
@@ -360,6 +362,7 @@ Ideally they should be written in JavaScript and run (through virtual file syste
 ## [wait](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/wait.html)
 
 ## [wc](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/wc.html)
+  + [wordcount-stream](https://www.npmjs.com/package/wordcount-stream)
 
 ## [what](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/what.html)
 
