@@ -432,6 +432,7 @@ If you know of a tool in JavaScript that works similar to a POSIX utility, pleas
 * Server
   + [posix](https://www.npmjs.com/package/posix)
   + [posix-ext](https://www.npmjs.com/package/posix-ext)
+  + [shelljs](https://www.npmjs.com/package/shelljs)
 
 ## Reference
 
