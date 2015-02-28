@@ -140,6 +140,7 @@ Ideally they should be written in JavaScript and run (through virtual file syste
 ## [hash](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/hash.html)
 
 ## [head](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/head.html)
+* [ix-head](https://www.npmjs.com/package/ix-head)
 
 ## [iconv](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/iconv.html)
 

@@ -21,6 +21,7 @@
   "dependencies": {
     "ix-cat": "^1.1.0",
     "ix-echo": "^1.0.0",
-    "ix-expand": "^1.0.0"
+    "ix-expand": "^1.0.0",
+    "ix-head": "^1.0.0"
   }
 }
