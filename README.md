@@ -333,6 +333,7 @@ If you know of a tool in JavaScript that works similar to a POSIX utility, pleas
 * [sleep](https://www.npmjs.com/package/sleep)
 
 ## [sort](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/sort.html)
+* [unix-sort](https://www.npmjs.com/package/unix-sort)
 
 ## [split](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/split.html)
 
