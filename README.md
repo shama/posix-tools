@@ -1,8 +1,53 @@
 # ix-tools
 
-A collection of pure JavaScript POSIX-like tools
+A collection of pure (almost) JavaScript POSIX-like tools.
 
-Ideally they should be written in JavaScript and run (through virtual file systems, etc) in a browser.
+### goal
+The primary goal of this project is to build a comprehensive list of POSIX-like tools written in JavaScript. In no way do I claim any of these to be POSIX compliant nor have plans to be certified to say so.
+
+The secondary goal is to fill in the blanks with pure JavaScript, platform agnostic POSIX-like tools. In other words, the same interface can be ran through Node.s/io.js on Windows/OSX/Linux as well as independently in a web browser.
+
+### example
+
+Please see [ix-cat](https://github.com/shama/ix-cat) for an example agnostic POSIX-like JavaScript tool.
+
+```shell
+npm install ix-cat
+```
+
+Then in your `package.json` you can use `cat`:
+
+```json
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "cat one.js two.js"
+  },
+  "dependencies": {
+    "ix-cat": "^1.1.0"
+  }
+}
+```
+
+and `npm run build` should run the same on Windows/OSX/Linux.
+
+The API will also work in a web browser by supplying a Node.js/io.js compatible file system interface:
+
+```js
+var cat = require('ix-cat')({
+  // File inputs go in through a _ array
+  _: ['one.js', 'two.js'],
+  fs: {
+    createReadStream: function(filename) { /* return a read file stream */ }
+  },
+})
+cat.on('data', function(data) {
+  console.log(data.toString())
+})
+```
+
+---
 
 > Server: Will only run on the server side.
 > Alias: Will exec the OS's binary tool.
