@@ -47,6 +47,9 @@ cat.on('data', function(data) {
 })
 ```
 
+### please contribute!
+If you know of a tool in JavaScript that works similar to a POSIX utility, please add it to this list!
+
 ---
 
 > Server: Will only run on the server side.
