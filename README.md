@@ -103,6 +103,7 @@ Ideally they should be written in JavaScript and run (through virtual file syste
 ## [ex](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/ex.html)
 
 ## [expand](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/expand.html)
+* [ix-expand](https://www.npmjs.com/package/ix-expand)
 
 ## [expr](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/expr.html)
 
