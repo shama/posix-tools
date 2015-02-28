@@ -326,6 +326,7 @@ If you know of a tool in JavaScript that works similar to a POSIX utility, pleas
 ## [sccs](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/sccs.html)
 
 ## [sed](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/sed.html)
+* [sed.js](https://www.npmjs.com/package/sed.js)
 
 ## [sh](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/sh.html)
 
