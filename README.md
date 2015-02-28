@@ -5,7 +5,7 @@ A collection of pure (almost) JavaScript POSIX-like tools.
 ### goal
 The primary goal of this project is to build a comprehensive list of POSIX-like tools written in JavaScript. In no way do I claim any of these to be POSIX compliant nor have plans to be certified to say so.
 
-The secondary goal is to fill in the blanks with pure JavaScript, platform agnostic POSIX-like tools. In other words, the same interface can be ran through Node.s/io.js on Windows/OSX/Linux as well as independently in a web browser.
+The secondary goal is to fill in the blanks with pure JavaScript, platform agnostic POSIX-like tools. In other words, the same interface can be ran through Node.js/io.js on Windows/OSX/Linux as well as independently in a web browser.
 
 ### example
 
