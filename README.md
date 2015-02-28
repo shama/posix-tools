@@ -280,6 +280,7 @@ Ideally they should be written in JavaScript and run (through virtual file syste
 ## [sh](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/sh.html)
 
 ## [sleep](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/sleep.html)
+* [sleep](https://www.npmjs.com/package/sleep)
 
 ## [sort](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/sort.html)
 
