@@ -68,6 +68,7 @@ If you know of a tool in JavaScript that works similar to a POSIX utility, pleas
 ## [awk](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/awk.html)
 
 ## [basename](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/basename.html)
+* [path.basename](https://iojs.org/api/path.html#path_path_basename_p_ext)
 
 ## [batch](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/batch.html)
 
@@ -116,6 +117,7 @@ If you know of a tool in JavaScript that works similar to a POSIX utility, pleas
   + [cpy](https://www.npmjs.com/package/cpy)
 
 ## [crontab](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/crontab.html)
+* `setTimeout`
 
 ## [csplit](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/csplit.html)
 
@@ -138,6 +140,7 @@ If you know of a tool in JavaScript that works similar to a POSIX utility, pleas
 ## [diff](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/diff.html)
 
 ## [dirname](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/dirname.html)
+* [path.dirname](https://iojs.org/api/path.html#path_path_dirname_p)
 
 ## [du](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/du.html)
 
