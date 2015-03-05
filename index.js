@@ -1,8 +1,8 @@
 module.exports = {
-  cat: require('ix-cat'),
-  echo: require('ix-echo'),
-  expand: require('ix-expand'),
+  cat: require('posix-cat'),
+  echo: require('posix-echo'),
+  expand: require('posix-expand'),
   'false': false,
-  head: require('ix-head'),
+  head: require('posix-head'),
   'true': true,
 }

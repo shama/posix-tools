@@ -1,4 +1,4 @@
-# ix-tools
+# posix-tools
 
 A collection of pure (almost) JavaScript POSIX-like tools.
 
@@ -9,10 +9,10 @@ The secondary goal is to fill in the blanks with pure JavaScript, platform agnos
 
 ### example
 
-Please see [ix-cat](https://github.com/shama/ix-cat) for an example agnostic POSIX-like JavaScript tool.
+Please see [posix-cat](https://github.com/shama/posix-cat) for an example agnostic POSIX-like JavaScript tool.
 
 ```shell
-npm install ix-cat
+npm install posix-cat
 ```
 
 Then in your `package.json` you can use `cat`:
@@ -25,7 +25,7 @@ Then in your `package.json` you can use `cat`:
     "build": "cat one.js two.js"
   },
   "dependencies": {
-    "ix-cat": "^1.1.0"
+    "posix-cat": "^1.1.0"
   }
 }
 ```
@@ -35,7 +35,7 @@ and `npm run build` should run the same on Windows/OSX/Linux.
 The API will also work in a web browser by supplying a Node.js/io.js compatible file system interface:
 
 ```js
-var cat = require('ix-cat')({
+var cat = require('posix-cat')({
   // File inputs go in through a _ array
   _: ['one.js', 'two.js'],
   fs: {
@@ -81,7 +81,7 @@ If you know of a tool in JavaScript that works similar to a POSIX utility, pleas
 ## [cal](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/cal.html)
 
 ## [cat](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/cat.html)
-* [ix-cat](https://www.npmjs.com/package/ix-cat)
+* [posix-cat](https://www.npmjs.com/package/posix-cat)
 
 ## [cd](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/cd.html)
 * Server
@@ -145,7 +145,7 @@ If you know of a tool in JavaScript that works similar to a POSIX utility, pleas
 ## [du](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/du.html)
 
 ## [echo](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/echo.html)
-* [ix-echo](https://www.npmjs.com/package/ix-echo)
+* [posix-echo](https://www.npmjs.com/package/posix-echo)
 
 ## [ed](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/ed.html)
 
@@ -154,7 +154,7 @@ If you know of a tool in JavaScript that works similar to a POSIX utility, pleas
 ## [ex](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/ex.html)
 
 ## [expand](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/expand.html)
-* [ix-expand](https://www.npmjs.com/package/ix-expand)
+* [posix-expand](https://www.npmjs.com/package/posix-expand)
 
 ## [expr](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/expr.html)
 
@@ -191,7 +191,7 @@ If you know of a tool in JavaScript that works similar to a POSIX utility, pleas
 ## [hash](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/hash.html)
 
 ## [head](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/head.html)
-* [ix-head](https://www.npmjs.com/package/ix-head)
+* [posix-head](https://www.npmjs.com/package/posix-head)
 
 ## [iconv](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/iconv.html)
 
