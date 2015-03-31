@@ -316,6 +316,7 @@ If you know of a tool in JavaScript that works similar to a POSIX utility, pleas
 * Server
   + [rimraf](https://www.npmjs.com/package/rimraf)
   + [fs.unlink](https://iojs.org/api/fs.html#fs_fs_unlink_path_callback)
+  + [trash](https://www.npmjs.com/package/trash)
 
 ## [rmdel](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/rmdel.html)
 
@@ -323,6 +324,7 @@ If you know of a tool in JavaScript that works similar to a POSIX utility, pleas
 * Server
   + [rimraf](https://www.npmjs.com/package/rimraf)
   + [fs.rmdir](https://iojs.org/api/fs.html#fs_fs_rmdir_path_callback)
+  + [trash](https://www.npmjs.com/package/trash)
 
 ## [sact](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/sact.html)
 
